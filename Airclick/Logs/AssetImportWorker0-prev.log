@@ -1,0 +1,266 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.30f1 (1fb1bf06830e) revision 2077119'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Professional' Language: 'ko' Physical Memory: 15682 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/PKNU/Desktop/Airclick
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+4769
+Successfully changed project path to: C:/Users/PKNU/Desktop/Airclick
+C:/Users/PKNU/Desktop/Airclick
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 48.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.30f1 (1fb1bf06830e)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/PKNU/Desktop/Airclick/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x1636)
+    Vendor:   
+    VRAM:     7841 MB
+    Driver:   30.0.13023.4001
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56664
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006233 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 46.32 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.677 seconds
+Domain Reload Profiling:
+	ReloadAssembly (677ms)
+		BeginReloadAssembly (104ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (483ms)
+			LoadAssemblies (100ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (147ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (192ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (46ms)
+				BeforeProcessingInitializeOnLoad (17ms)
+				ProcessInitializeOnLoadAttributes (89ms)
+				ProcessInitializeOnLoadMethodAttributes (32ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008995 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.098 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1098ms)
+		BeginReloadAssembly (188ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (836ms)
+			LoadAssemblies (143ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (278ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (326ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (91ms)
+				ProcessInitializeOnLoadAttributes (203ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1947 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.4 MB.
+System memory in use after: 87.5 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2382.
+Total: 2.953400 ms (FindLiveObjects: 0.183300 ms CreateObjectMapping: 0.047000 ms MarkObjects: 2.621800 ms  DeleteObjects: 0.099900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Plugins/LeapMotion/Core/Scripts/LeapTestProvider.cs
+  artifactKey: Guid(eb03ddd22a96bb141a8bd612a3b5afa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Scripts/LeapTestProvider.cs using Guid(eb03ddd22a96bb141a8bd612a3b5afa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bd6e4ba4311ad9008c3ed8ed1b63fb7') in 0.036732 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.155710 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Textures/LoPolyHand_Color.png
+  artifactKey: Guid(5daedc5a8f1008648bcfb5931d482c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Textures/LoPolyHand_Color.png using Guid(5daedc5a8f1008648bcfb5931d482c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10ca60b3fc92553a354af4222ffb92d4') in 0.069722 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Textures/PluginLeapNotice.png
+  artifactKey: Guid(d9f2440b0c0a7447b8409e9ff6041121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Textures/PluginLeapNotice.png using Guid(d9f2440b0c0a7447b8409e9ff6041121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20e5f2677624a2ca6f578becdbedfa43') in 0.088995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Textures/PluginLeapNoticeLarge.png
+  artifactKey: Guid(918ef998a98bae948af70ab937ec93c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Textures/PluginLeapNoticeLarge.png using Guid(918ef998a98bae948af70ab937ec93c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04b72520fd23fc04746406c413b639c6') in 0.061578 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.218083 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Materials/AlphaToWhite.mat
+  artifactKey: Guid(72e5fb030c388e14f8988b632aea539a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Materials/AlphaToWhite.mat using Guid(72e5fb030c388e14f8988b632aea539a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77cb262241e48a4d7be09d25bd2d368c') in 0.063089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Materials/StereoIR170InteractionVolume.mat
+  artifactKey: Guid(095eb2a35819f824e989239e78fa4de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Materials/StereoIR170InteractionVolume.mat using Guid(095eb2a35819f824e989239e78fa4de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9ef9b7f0498a7fee72d034731008c8') in 0.046691 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000601 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Materials/InstancedCapsuleHand.mat
+  artifactKey: Guid(50db6ec9473cfa746a5882bd2a16ced8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Materials/InstancedCapsuleHand.mat using Guid(50db6ec9473cfa746a5882bd2a16ced8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb501cc271bd9d3ec615c39bb592a207') in 0.244410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.122137 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Prefabs/Attachment Hands.prefab
+  artifactKey: Guid(80001c6c93c5068488198a82e151e3ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Prefabs/Attachment Hands.prefab using Guid(80001c6c93c5068488198a82e151e3ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0cfb915cd2d8ca9cff5092fa75294da') in 0.029241 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001099 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Prefabs/Leap Rig.prefab
+  artifactKey: Guid(dae2e2be31c98324eac460f702db97e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Prefabs/Leap Rig.prefab using Guid(dae2e2be31c98324eac460f702db97e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c29ed9ab320947a65203c0e05f938ac') in 0.045631 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001042 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Prefabs/LeapHandController.prefab
+  artifactKey: Guid(b9c7aaf0d314cb847a3b2a20e893f1b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Prefabs/LeapHandController.prefab using Guid(b9c7aaf0d314cb847a3b2a20e893f1b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e82f9f471ee8e5230e3186bc0ba8e53d') in 0.026601 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.594509 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Models/Dodecahedron.fbx
+  artifactKey: Guid(bd6dbd576ded8314db8cbbc058a8a5b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Models/Dodecahedron.fbx using Guid(bd6dbd576ded8314db8cbbc058a8a5b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '008ff89cf936f29380c4d9b24ac1f118') in 0.171829 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Models/StereoIR170-interaction-cone.obj
+  artifactKey: Guid(39d0d2580bd1f6c43882f03f38e7e946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Models/StereoIR170-interaction-cone.obj using Guid(39d0d2580bd1f6c43882f03f38e7e946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a3a407b7fec419432d61d5adf6ca155') in 0.095813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Models/MediumPolySphere.fbx
+  artifactKey: Guid(2f496b1b1bec86743b418551f859020c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Models/MediumPolySphere.fbx using Guid(2f496b1b1bec86743b418551f859020c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7a734c10592294b22d4c1d79651fe88') in 0.066798 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001082 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Models/LoPoly_Rigged_Hand_Left.fbx
+  artifactKey: Guid(5413bab15c3dd4a4085a9fe254a17e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Models/LoPoly_Rigged_Hand_Left.fbx using Guid(5413bab15c3dd4a4085a9fe254a17e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60080570d890a680c68e8ed84fddb929') in 0.089257 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000922 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Models/LowPolySphere.fbx
+  artifactKey: Guid(d3c658b9d2d991e49944fe238fc8b166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Models/LowPolySphere.fbx using Guid(d3c658b9d2d991e49944fe238fc8b166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd94e2c4f90ba66bfe8fa5fc7ed9d9a2') in 0.061972 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Models/LoPoly_Rigged_Hand_Right.fbx
+  artifactKey: Guid(ce6112dd14179d448958c91c5b4e8de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Models/LoPoly_Rigged_Hand_Right.fbx using Guid(ce6112dd14179d448958c91c5b4e8de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9455db37b8f79ac71725ffd894aef9cd') in 0.078881 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Models/LoPoly_Rigged_Hands_Skeleton.fbx
+  artifactKey: Guid(affe8bf845b965a489b693bfe8b9bb11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Models/LoPoly_Rigged_Hands_Skeleton.fbx using Guid(affe8bf845b965a489b693bfe8b9bb11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abfc1fcbf1a7c2c1662180e3e1ce0b79') in 0.059050 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.453981 seconds.
+  path: Assets/Plugins/LeapMotion/Core/EditorResources/HandTex.png
+  artifactKey: Guid(deb56e030d40a2e459ff79f6da5e82cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/EditorResources/HandTex.png using Guid(deb56e030d40a2e459ff79f6da5e82cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05b2b40319b937b0e801c74585e8ca8e') in 0.029044 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Plugins/LeapMotion/Core/EditorResources/LM_Logo_White.png
+  artifactKey: Guid(531ccdf1541b9304dab42c2aaad3084a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/EditorResources/LM_Logo_White.png using Guid(531ccdf1541b9304dab42c2aaad3084a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '510d8668ccec4bcfc20e0c94487dd539') in 0.026629 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000791 seconds.
+  path: Assets/Plugins/LeapMotion/Core/EditorResources/LM_Logo_Black.png
+  artifactKey: Guid(c2eb1fabce622324c8b84d9b3063b41d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/EditorResources/LM_Logo_Black.png using Guid(c2eb1fabce622324c8b84d9b3063b41d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68c5cc3cf7eaffbac0d40f2dd3be3bf8') in 0.028261 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000858 seconds.
+  path: Assets/Plugins/LeapMotion/Core/EditorResources/LeapServiceProvider_ScriptIcon.png
+  artifactKey: Guid(3efe3743f9d5f994bb67dfb187b3e839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/EditorResources/LeapServiceProvider_ScriptIcon.png using Guid(3efe3743f9d5f994bb67dfb187b3e839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d23b2efe980e12b07b5cce81a468675') in 0.020850 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000549 seconds.
+  path: Assets/Plugins/LeapMotion/Core/EditorResources/LeapXRServiceProvider_ScriptIcon.png
+  artifactKey: Guid(bdb0bb72cecba04489875e9d582d1d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/EditorResources/LeapXRServiceProvider_ScriptIcon.png using Guid(bdb0bb72cecba04489875e9d582d1d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf1be3efa8355b3f1040a3a31e0dc097') in 0.029247 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
